@@ -8,4 +8,4 @@
 
 Простое руководство по работе с GIT - http://rogerdudler.github.io/git-guide/index.ru.html  
 
-[<назад](./clean.md) [_________]       
+[<назад](./clean.md)
