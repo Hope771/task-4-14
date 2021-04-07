@@ -10,6 +10,8 @@ LICENSE: [MIT](./license.md)
 1. [Что такое GIT?](./git.md)
 2. [Установка](./instal.md)
 3. Основные команды 
+    * [git config](./config.md)
+    * [git init](./init.md)
     * [git add](./add.md)
     * [git status](./status.md) 
     * [git diff](./diff.md)
