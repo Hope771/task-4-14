@@ -21,7 +21,7 @@ LICENSE: [MIT](./license.md)
     * [git rm](./rm.md)
     * [git mv](./mv.md)
     * [git clean](./clean.md)
-4. Полезные ссылки
+4. [Полезные ссылки](./link.md)
 
 
 
