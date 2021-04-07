@@ -8,7 +8,8 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание:
 1. [Что такое GIT?](./git.md)
-2. Основные команды 
+2. [Установка](./instal.md)
+3. Основные команды 
     * [git add](./add.md)
     * [git status](./status.md) 
     * [git diff](./diff.md)
