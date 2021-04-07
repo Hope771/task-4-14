@@ -23,3 +23,5 @@ git diff --staged
 ```bash=
 git diff master branchB
 ```
+
+[<назад](./status.md) [_________]        [вперед>](./difftool.md)

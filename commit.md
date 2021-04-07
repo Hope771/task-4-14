@@ -9,3 +9,5 @@
 ```bash=
 commit -m "fix benchmarks for speed"
 ```
+
+[<назад](./difftool.md) [_________]        [вперед>](./reset.md)
