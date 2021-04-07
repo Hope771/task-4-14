@@ -1,4 +1,4 @@
-# Инструкция по работе с GIT
+# **Инструкция по работе с GIT**
 
 LICENSE: [MIT](./license.md)
 
@@ -7,8 +7,17 @@ LICENSE: [MIT](./license.md)
 ---
 
 ### Содержание:
-1. Что-то
-2. [git add](./add.md)
+1. [Что такое GIT?](./git.md)
+2. Основные команды 
+    * [git add](./add.md)
+    * [git status](./status.md) 
+    * [git diff](./diff.md)
+    * [git difftool](./difftool.md)
+    * [git commit](./commit.md)
+    * [git reset](./reset.md)
+    * [git rm](./rm.md)
+    * [git mv](./mv.md)
+    * [git clean](./clean.md)
 
 
 ---
